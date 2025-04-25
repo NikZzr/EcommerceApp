@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215159609372",
+    "project_id": "ecommerceapp-79305",
+    "storage_bucket": "ecommerceapp-79305.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215159609372:android:509e2387ac7cd148c127d9",
+        "android_client_info": {
+          "package_name": "com.nicolasnino.ecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw4oC5NNUTQAQvBQVqs3yHAtmp2PRhyvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
